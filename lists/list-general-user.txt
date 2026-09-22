@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# Starzooutfit/discordzapret 5e306b8f030b
